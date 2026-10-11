@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: college-dept-system
+    name: cmds
     env: node
     plan: free
     region: oregon
