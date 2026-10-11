@@ -1,0 +1,762 @@
+[
+  {
+    "_id": "9ptpiqwk3",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Bulk Upload Marks",
+    "details": "Bulk uploaded 50 grade entries from file Student_Marks_Out_of_30.xlsx",
+    "createdAt": "2026-07-25T13:48:09.370Z",
+    "updatedAt": "2026-07-25T13:48:09.370Z"
+  },
+  {
+    "_id": "a97fqchlg",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Alex Johnson (S101) and cleared all grades.",
+    "createdAt": "2026-07-25T13:48:47.900Z",
+    "updatedAt": "2026-07-25T13:48:47.900Z"
+  },
+  {
+    "_id": "x40wnj10a",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Sophia Williams (S102) and cleared all grades.",
+    "createdAt": "2026-07-25T13:48:55.511Z",
+    "updatedAt": "2026-07-25T13:48:55.511Z"
+  },
+  {
+    "_id": "1qt73j4tx",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Register Teacher Account",
+    "details": "Registered new faculty profile: Prof. Alan Turing (T202) assigned to subject: Computer Science",
+    "createdAt": "2026-07-25T14:12:46.453Z",
+    "updatedAt": "2026-07-25T14:12:46.453Z"
+  },
+  {
+    "_id": "ovu0au4jz",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Remove Teacher Account",
+    "details": "Removed faculty profile: Prof. Alan Turing (T202)",
+    "createdAt": "2026-07-25T14:12:46.474Z",
+    "updatedAt": "2026-07-25T14:12:46.474Z"
+  },
+  {
+    "_id": "tkxgszup2",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Register Teacher Account",
+    "details": "Registered new faculty profile: PUNIT SIR (T202) assigned to subject: MINOR PROJECT",
+    "createdAt": "2026-07-25T14:26:16.247Z",
+    "updatedAt": "2026-07-25T14:26:16.247Z"
+  },
+  {
+    "_id": "e2l4wpmru",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Remove Teacher Account",
+    "details": "Removed faculty profile: PUNIT SIR (T202)",
+    "createdAt": "2026-07-25T14:30:16.127Z",
+    "updatedAt": "2026-07-25T14:30:16.127Z"
+  },
+  {
+    "_id": "khsy2qhve",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Register Teacher Account",
+    "details": "Registered new faculty profile: PUNIT SIR (T202) assigned to subject: MIONOR PROJECT",
+    "createdAt": "2026-07-25T14:37:24.795Z",
+    "updatedAt": "2026-07-25T14:37:24.795Z"
+  },
+  {
+    "_id": "78pku26sl",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 1 (IML001) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:22.375Z",
+    "updatedAt": "2026-07-27T15:15:22.375Z"
+  },
+  {
+    "_id": "amer9u9dm",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 2 (IML002) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:29.784Z",
+    "updatedAt": "2026-07-27T15:15:29.784Z"
+  },
+  {
+    "_id": "ss9yds2cd",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 9 (IML009) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:38.726Z",
+    "updatedAt": "2026-07-27T15:15:38.726Z"
+  },
+  {
+    "_id": "98873qe9o",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 3 (IML003) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:45.324Z",
+    "updatedAt": "2026-07-27T15:15:45.324Z"
+  },
+  {
+    "_id": "fp0iadsyo",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 4 (IML004) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:51.375Z",
+    "updatedAt": "2026-07-27T15:15:51.375Z"
+  },
+  {
+    "_id": "14epnh84y",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 5 (IML005) and cleared all grades.",
+    "createdAt": "2026-07-27T15:15:57.378Z",
+    "updatedAt": "2026-07-27T15:15:57.378Z"
+  },
+  {
+    "_id": "4ej0a2olx",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 6 (IML006) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:03.316Z",
+    "updatedAt": "2026-07-27T15:16:03.316Z"
+  },
+  {
+    "_id": "el2u06283",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 7 (IML007) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:09.455Z",
+    "updatedAt": "2026-07-27T15:16:09.455Z"
+  },
+  {
+    "_id": "aemh8zpsf",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 8 (IML008) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:15.223Z",
+    "updatedAt": "2026-07-27T15:16:15.223Z"
+  },
+  {
+    "_id": "9cjsq57kl",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 10 (IML010) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:21.027Z",
+    "updatedAt": "2026-07-27T15:16:21.027Z"
+  },
+  {
+    "_id": "et0d43i7s",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 11 (IML011) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:27.653Z",
+    "updatedAt": "2026-07-27T15:16:27.653Z"
+  },
+  {
+    "_id": "vnn2kba48",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 12 (IML012) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:35.243Z",
+    "updatedAt": "2026-07-27T15:16:35.243Z"
+  },
+  {
+    "_id": "sm9kn711c",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 13 (IML013) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:40.345Z",
+    "updatedAt": "2026-07-27T15:16:40.345Z"
+  },
+  {
+    "_id": "hqv68i4o9",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 14 (IML014) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:46.633Z",
+    "updatedAt": "2026-07-27T15:16:46.633Z"
+  },
+  {
+    "_id": "bbrsh6btj",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 15 (IML015) and cleared all grades.",
+    "createdAt": "2026-07-27T15:16:55.278Z",
+    "updatedAt": "2026-07-27T15:16:55.278Z"
+  },
+  {
+    "_id": "66mtfo2ti",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 17 (IML017) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:01.897Z",
+    "updatedAt": "2026-07-27T15:17:01.897Z"
+  },
+  {
+    "_id": "zp6so02e3",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 16 (IML016) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:08.192Z",
+    "updatedAt": "2026-07-27T15:17:08.192Z"
+  },
+  {
+    "_id": "1dcv94prm",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 18 (IML018) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:14.746Z",
+    "updatedAt": "2026-07-27T15:17:14.746Z"
+  },
+  {
+    "_id": "pb9pt2n99",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 19 (IML019) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:20.431Z",
+    "updatedAt": "2026-07-27T15:17:20.431Z"
+  },
+  {
+    "_id": "j5r2bl5sk",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 20 (IML020) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:25.862Z",
+    "updatedAt": "2026-07-27T15:17:25.863Z"
+  },
+  {
+    "_id": "ifxoz2c72",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 21 (IML021) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:31.428Z",
+    "updatedAt": "2026-07-27T15:17:31.428Z"
+  },
+  {
+    "_id": "rxtcq0ruw",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 22 (IML022) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:36.523Z",
+    "updatedAt": "2026-07-27T15:17:36.523Z"
+  },
+  {
+    "_id": "5ew9afqx1",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 23 (IML023) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:41.952Z",
+    "updatedAt": "2026-07-27T15:17:41.952Z"
+  },
+  {
+    "_id": "vcnufcdij",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 24 (IML024) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:47.403Z",
+    "updatedAt": "2026-07-27T15:17:47.403Z"
+  },
+  {
+    "_id": "fi3flfwkq",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 25 (IML025) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:53.784Z",
+    "updatedAt": "2026-07-27T15:17:53.784Z"
+  },
+  {
+    "_id": "lzeyqj0zr",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 26 (IML026) and cleared all grades.",
+    "createdAt": "2026-07-27T15:17:58.899Z",
+    "updatedAt": "2026-07-27T15:17:58.899Z"
+  },
+  {
+    "_id": "fu5np8cu5",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 27 (IML027) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:04.178Z",
+    "updatedAt": "2026-07-27T15:18:04.178Z"
+  },
+  {
+    "_id": "j9xp2vfp2",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 28 (IML028) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:09.636Z",
+    "updatedAt": "2026-07-27T15:18:09.638Z"
+  },
+  {
+    "_id": "4su01ey8j",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 29 (IML029) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:16.232Z",
+    "updatedAt": "2026-07-27T15:18:16.232Z"
+  },
+  {
+    "_id": "gkh36sk30",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 30 (IML030) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:21.704Z",
+    "updatedAt": "2026-07-27T15:18:21.704Z"
+  },
+  {
+    "_id": "buiar255l",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 31 (IML031) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:27.536Z",
+    "updatedAt": "2026-07-27T15:18:27.536Z"
+  },
+  {
+    "_id": "gg2x30t39",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 32 (IML032) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:32.684Z",
+    "updatedAt": "2026-07-27T15:18:32.684Z"
+  },
+  {
+    "_id": "j1pr3b5by",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 33 (IML033) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:38.126Z",
+    "updatedAt": "2026-07-27T15:18:38.126Z"
+  },
+  {
+    "_id": "e8oazsn05",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 34 (IML034) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:43.001Z",
+    "updatedAt": "2026-07-27T15:18:43.001Z"
+  },
+  {
+    "_id": "emqrmsdzm",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 35 (IML035) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:49.312Z",
+    "updatedAt": "2026-07-27T15:18:49.312Z"
+  },
+  {
+    "_id": "7avot9w3d",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 36 (IML036) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:55.062Z",
+    "updatedAt": "2026-07-27T15:18:55.062Z"
+  },
+  {
+    "_id": "pn69f0sif",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 37 (IML037) and cleared all grades.",
+    "createdAt": "2026-07-27T15:18:59.728Z",
+    "updatedAt": "2026-07-27T15:18:59.728Z"
+  },
+  {
+    "_id": "f6ydvm3fp",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 38 (IML038) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:04.425Z",
+    "updatedAt": "2026-07-27T15:19:04.425Z"
+  },
+  {
+    "_id": "scqelxldb",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 39 (IML039) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:08.528Z",
+    "updatedAt": "2026-07-27T15:19:08.529Z"
+  },
+  {
+    "_id": "zyqajxuyn",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 40 (IML040) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:13.100Z",
+    "updatedAt": "2026-07-27T15:19:13.100Z"
+  },
+  {
+    "_id": "tasoo5k7o",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 41 (IML041) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:17.690Z",
+    "updatedAt": "2026-07-27T15:19:17.690Z"
+  },
+  {
+    "_id": "hbl49ye57",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 42 (IML042) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:22.625Z",
+    "updatedAt": "2026-07-27T15:19:22.625Z"
+  },
+  {
+    "_id": "g9lfzb9li",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 45 (IML045) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:27.076Z",
+    "updatedAt": "2026-07-27T15:19:27.076Z"
+  },
+  {
+    "_id": "sk0wglw45",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 43 (IML043) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:31.875Z",
+    "updatedAt": "2026-07-27T15:19:31.875Z"
+  },
+  {
+    "_id": "udverc0kb",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 44 (IML044) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:36.129Z",
+    "updatedAt": "2026-07-27T15:19:36.130Z"
+  },
+  {
+    "_id": "28cmgt429",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 46 (IML046) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:40.603Z",
+    "updatedAt": "2026-07-27T15:19:40.603Z"
+  },
+  {
+    "_id": "w30cm6k3n",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 47 (IML047) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:45.090Z",
+    "updatedAt": "2026-07-27T15:19:45.090Z"
+  },
+  {
+    "_id": "8ccc0zjws",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 48 (IML048) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:49.107Z",
+    "updatedAt": "2026-07-27T15:19:49.107Z"
+  },
+  {
+    "_id": "7k0gn9r87",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 49 (IML049) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:53.192Z",
+    "updatedAt": "2026-07-27T15:19:53.192Z"
+  },
+  {
+    "_id": "pnuhoi6r4",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile Student 50 (IML050) and cleared all grades.",
+    "createdAt": "2026-07-27T15:19:58.090Z",
+    "updatedAt": "2026-07-27T15:19:58.090Z"
+  },
+  {
+    "_id": "kehg6t9lh",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Create Student Account",
+    "details": "Registered new student profile: JOSHI HEET (101) in Class A",
+    "createdAt": "2026-07-27T15:20:20.056Z",
+    "updatedAt": "2026-07-27T15:20:20.056Z"
+  },
+  {
+    "_id": "vf2exgj6z",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Bulk Upload Marks",
+    "details": "Bulk uploaded 100 grade entries from file Minor_Project_100_Students_With_Names_Marks.xlsx",
+    "createdAt": "2026-07-27T15:26:15.693Z",
+    "updatedAt": "2026-07-27T15:26:15.693Z"
+  },
+  {
+    "_id": "47xid0x0b",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Delete Student Account",
+    "details": "Permanently removed student profile JOSHI HEET (101) and cleared all grades.",
+    "createdAt": "2026-07-27T15:26:49.718Z",
+    "updatedAt": "2026-07-27T15:26:49.719Z"
+  },
+  {
+    "_id": "f8m905cy1",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Update Max Marks Scale",
+    "details": "Batch updated 100 grade records max marks to Out of 30",
+    "createdAt": "2026-07-27T15:36:34.938Z",
+    "updatedAt": "2026-07-27T15:36:34.938Z"
+  },
+  {
+    "_id": "xt7i4hn6f",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Update Max Marks Scale",
+    "details": "Batch updated 100 grade records max marks to Out of 100",
+    "createdAt": "2026-07-27T15:36:43.056Z",
+    "updatedAt": "2026-07-27T15:36:43.056Z"
+  },
+  {
+    "_id": "qis29l6cz",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Update Max Marks Scale",
+    "details": "Batch updated 100 grade records max marks to Out of 30",
+    "createdAt": "2026-07-27T16:22:41.716Z",
+    "updatedAt": "2026-07-27T16:22:41.716Z"
+  },
+  {
+    "_id": "fb39mluiy",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Bulk Upload Marks",
+    "details": "Bulk uploaded 100 grade entries from file Minor_Project_100_Students_With_Names_Marks.xlsx",
+    "createdAt": "2026-07-27T16:27:35.682Z",
+    "updatedAt": "2026-07-27T16:27:35.682Z"
+  },
+  {
+    "_id": "ak22c5y3t",
+    "userId": "T202",
+    "userName": "PUNIT SIR",
+    "userRole": "Teacher",
+    "action": "Bulk Upload Marks",
+    "details": "Bulk uploaded 100 grade entries from file Minor_Project_100_Students_Marks_Changed_Only.xlsx",
+    "createdAt": "2026-07-27T17:52:08.836Z",
+    "updatedAt": "2026-07-27T17:52:08.836Z"
+  },
+  {
+    "_id": "jc6flnu5x",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Add Remark",
+    "details": "Added academic review comment on Aarav Patel (S1)'s profile.",
+    "createdAt": "2026-08-04T07:46:04.231Z",
+    "updatedAt": "2026-08-04T07:46:04.231Z"
+  },
+  {
+    "_id": "2h8kzna6z",
+    "userId": "admin",
+    "userName": "Dean Arthur Pendelton",
+    "userRole": "Principal",
+    "action": "Remove Teacher Account",
+    "details": "Removed faculty profile: Prof. Albert Einstein (T201)",
+    "createdAt": "2026-08-15T08:13:37.082Z",
+    "updatedAt": "2026-08-15T08:13:37.082Z"
+  },
+  {
+    "_id": "d79rbwe3y",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Add GTU Result",
+    "details": "Added GTU Result for Aarav Patel (S1) in Physics: 80/100 (AB)",
+    "createdAt": "2026-08-21T15:20:09.176Z",
+    "updatedAt": "2026-08-21T15:20:09.176Z"
+  },
+  {
+    "_id": "b70s91gzu",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Add GTU Result",
+    "details": "Added GTU Result for Vivaan Patel (S2) in Physics: 20/100 (FF)",
+    "createdAt": "2026-08-24T15:22:51.107Z",
+    "updatedAt": "2026-08-24T15:22:51.107Z"
+  },
+  {
+    "_id": "rp89f2mj1",
+    "userId": "T202",
+    "userName": "PUNIT SIR",
+    "userRole": "Teacher",
+    "action": "Upload GTU Excel",
+    "details": "Imported GTU Excel sheet: 100 updated, 0 new registered, 0 failed.",
+    "createdAt": "2026-10-11T09:12:44.250Z",
+    "updatedAt": "2026-10-11T09:12:44.250Z"
+  },
+  {
+    "_id": "eq2hq3cd6",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Add GTU Result",
+    "details": "Added GTU Result for Aarav Patel (S1) in Physics: 66/70 (AA)",
+    "createdAt": "2026-10-11T09:46:59.910Z",
+    "updatedAt": "2026-10-11T09:46:59.910Z"
+  },
+  {
+    "_id": "1sjz5naad",
+    "userId": "T202",
+    "userName": "PUNIT SIR",
+    "userRole": "Teacher",
+    "action": "Upload GTU Excel",
+    "details": "Imported GTU Excel sheet: 100 updated, 0 new registered, 0 failed.",
+    "createdAt": "2026-10-11T09:54:37.296Z",
+    "updatedAt": "2026-10-11T09:54:37.296Z"
+  },
+  {
+    "_id": "u0yw1y15e",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Upload GTU Excel",
+    "details": "Imported GTU Excel sheet: 100 updated, 0 new registered, 0 failed.",
+    "createdAt": "2026-10-11T10:02:43.529Z",
+    "updatedAt": "2026-10-11T10:02:43.529Z"
+  },
+  {
+    "_id": "3n7vhlysw",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Upload GTU Excel",
+    "details": "Imported GTU Excel sheet: 100 updated, 0 new registered, 0 failed.",
+    "createdAt": "2026-10-11T10:04:41.670Z",
+    "updatedAt": "2026-10-11T10:04:41.670Z"
+  },
+  {
+    "_id": "68e8zwmq1",
+    "userId": "T201",
+    "userName": "Prof. Albert Einstein",
+    "userRole": "Teacher",
+    "action": "Upload GTU Excel",
+    "details": "Imported GTU Excel sheet: 100 updated, 0 new registered, 0 failed.",
+    "createdAt": "2026-10-11T10:06:29.855Z",
+    "updatedAt": "2026-10-11T10:06:29.855Z"
+  }
+]

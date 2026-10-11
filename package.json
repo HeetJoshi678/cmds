@@ -1,0 +1,14 @@
+{
+  "name": "college-dept-system",
+  "version": "1.0.0",
+  "description": "College Department Management System",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "npm run render-build",
+    "render-build": "npm --prefix backend install && npm --prefix frontend install && npm --prefix frontend run build"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

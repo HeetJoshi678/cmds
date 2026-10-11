@@ -1,0 +1,3183 @@
+[
+  {
+    "_id": "o8fuhrqw1",
+    "targetRole": "Student",
+    "targetUserId": "IML001",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.377Z",
+    "updatedAt": "2026-07-25T13:48:09.377Z"
+  },
+  {
+    "_id": "mtasdjb6e",
+    "targetRole": "Student",
+    "targetUserId": "IML002",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.435Z",
+    "updatedAt": "2026-07-25T13:48:09.435Z"
+  },
+  {
+    "_id": "7wzmtir94",
+    "targetRole": "Student",
+    "targetUserId": "IML003",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.480Z",
+    "updatedAt": "2026-07-25T13:48:09.480Z"
+  },
+  {
+    "_id": "op7vfs0lz",
+    "targetRole": "Student",
+    "targetUserId": "IML004",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.521Z",
+    "updatedAt": "2026-07-25T13:48:09.521Z"
+  },
+  {
+    "_id": "xjsfjzywb",
+    "targetRole": "Student",
+    "targetUserId": "IML005",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.560Z",
+    "updatedAt": "2026-07-25T13:48:09.560Z"
+  },
+  {
+    "_id": "dpo9fxuc4",
+    "targetRole": "Student",
+    "targetUserId": "IML006",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.600Z",
+    "updatedAt": "2026-07-25T13:48:09.600Z"
+  },
+  {
+    "_id": "dba6y1j1d",
+    "targetRole": "Student",
+    "targetUserId": "IML007",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.640Z",
+    "updatedAt": "2026-07-25T13:48:09.640Z"
+  },
+  {
+    "_id": "8c6vln67h",
+    "targetRole": "Student",
+    "targetUserId": "IML008",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.682Z",
+    "updatedAt": "2026-07-25T13:48:09.682Z"
+  },
+  {
+    "_id": "kh7hdzq60",
+    "targetRole": "Student",
+    "targetUserId": "IML009",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.722Z",
+    "updatedAt": "2026-07-25T13:48:09.722Z"
+  },
+  {
+    "_id": "yuwyth5w0",
+    "targetRole": "Student",
+    "targetUserId": "IML010",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.761Z",
+    "updatedAt": "2026-07-25T13:48:09.761Z"
+  },
+  {
+    "_id": "emk6wet03",
+    "targetRole": "Student",
+    "targetUserId": "IML011",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.803Z",
+    "updatedAt": "2026-07-25T13:48:09.803Z"
+  },
+  {
+    "_id": "tur11wjvg",
+    "targetRole": "Student",
+    "targetUserId": "IML012",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.846Z",
+    "updatedAt": "2026-07-25T13:48:09.846Z"
+  },
+  {
+    "_id": "6lh41ejfi",
+    "targetRole": "Student",
+    "targetUserId": "IML013",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.886Z",
+    "updatedAt": "2026-07-25T13:48:09.886Z"
+  },
+  {
+    "_id": "nr62adm6p",
+    "targetRole": "Student",
+    "targetUserId": "IML014",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.930Z",
+    "updatedAt": "2026-07-25T13:48:09.930Z"
+  },
+  {
+    "_id": "74ar6hnil",
+    "targetRole": "Student",
+    "targetUserId": "IML015",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:09.980Z",
+    "updatedAt": "2026-07-25T13:48:09.980Z"
+  },
+  {
+    "_id": "2w8n2yk4n",
+    "targetRole": "Student",
+    "targetUserId": "IML016",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.024Z",
+    "updatedAt": "2026-07-25T13:48:10.024Z"
+  },
+  {
+    "_id": "xxt2ionkc",
+    "targetRole": "Student",
+    "targetUserId": "IML017",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.069Z",
+    "updatedAt": "2026-07-25T13:48:10.069Z"
+  },
+  {
+    "_id": "iliyqqd68",
+    "targetRole": "Student",
+    "targetUserId": "IML018",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.115Z",
+    "updatedAt": "2026-07-25T13:48:10.115Z"
+  },
+  {
+    "_id": "qo31xucqg",
+    "targetRole": "Student",
+    "targetUserId": "IML019",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.161Z",
+    "updatedAt": "2026-07-25T13:48:10.161Z"
+  },
+  {
+    "_id": "w65evgqtp",
+    "targetRole": "Student",
+    "targetUserId": "IML020",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.203Z",
+    "updatedAt": "2026-07-25T13:48:10.203Z"
+  },
+  {
+    "_id": "rwscumwd1",
+    "targetRole": "Student",
+    "targetUserId": "IML021",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.246Z",
+    "updatedAt": "2026-07-25T13:48:10.246Z"
+  },
+  {
+    "_id": "dfd9uo8gg",
+    "targetRole": "Student",
+    "targetUserId": "IML022",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.288Z",
+    "updatedAt": "2026-07-25T13:48:10.289Z"
+  },
+  {
+    "_id": "8thflued1",
+    "targetRole": "Student",
+    "targetUserId": "IML023",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.331Z",
+    "updatedAt": "2026-07-25T13:48:10.331Z"
+  },
+  {
+    "_id": "tc97aphsh",
+    "targetRole": "Student",
+    "targetUserId": "IML024",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.374Z",
+    "updatedAt": "2026-07-25T13:48:10.374Z"
+  },
+  {
+    "_id": "gpn5yii36",
+    "targetRole": "Student",
+    "targetUserId": "IML025",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.418Z",
+    "updatedAt": "2026-07-25T13:48:10.418Z"
+  },
+  {
+    "_id": "fkqllrr6u",
+    "targetRole": "Student",
+    "targetUserId": "IML026",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.459Z",
+    "updatedAt": "2026-07-25T13:48:10.460Z"
+  },
+  {
+    "_id": "amu0c5v09",
+    "targetRole": "Student",
+    "targetUserId": "IML027",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.502Z",
+    "updatedAt": "2026-07-25T13:48:10.502Z"
+  },
+  {
+    "_id": "xk7btf6da",
+    "targetRole": "Student",
+    "targetUserId": "IML028",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.545Z",
+    "updatedAt": "2026-07-25T13:48:10.545Z"
+  },
+  {
+    "_id": "uih1d8qxm",
+    "targetRole": "Student",
+    "targetUserId": "IML029",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.588Z",
+    "updatedAt": "2026-07-25T13:48:10.588Z"
+  },
+  {
+    "_id": "yvz826fjn",
+    "targetRole": "Student",
+    "targetUserId": "IML030",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.630Z",
+    "updatedAt": "2026-07-25T13:48:10.631Z"
+  },
+  {
+    "_id": "3ohaanjml",
+    "targetRole": "Student",
+    "targetUserId": "IML031",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.674Z",
+    "updatedAt": "2026-07-25T13:48:10.674Z"
+  },
+  {
+    "_id": "wp39e80ti",
+    "targetRole": "Student",
+    "targetUserId": "IML032",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.716Z",
+    "updatedAt": "2026-07-25T13:48:10.716Z"
+  },
+  {
+    "_id": "gkn51a0gs",
+    "targetRole": "Student",
+    "targetUserId": "IML033",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.758Z",
+    "updatedAt": "2026-07-25T13:48:10.758Z"
+  },
+  {
+    "_id": "x7axwc268",
+    "targetRole": "Student",
+    "targetUserId": "IML034",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.800Z",
+    "updatedAt": "2026-07-25T13:48:10.801Z"
+  },
+  {
+    "_id": "28xaenuor",
+    "targetRole": "Student",
+    "targetUserId": "IML035",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.844Z",
+    "updatedAt": "2026-07-25T13:48:10.845Z"
+  },
+  {
+    "_id": "w17s376re",
+    "targetRole": "Student",
+    "targetUserId": "IML036",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.889Z",
+    "updatedAt": "2026-07-25T13:48:10.889Z"
+  },
+  {
+    "_id": "41up6o9hx",
+    "targetRole": "Student",
+    "targetUserId": "IML037",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.929Z",
+    "updatedAt": "2026-07-25T13:48:10.929Z"
+  },
+  {
+    "_id": "9fd4lt7x2",
+    "targetRole": "Student",
+    "targetUserId": "IML038",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:10.973Z",
+    "updatedAt": "2026-07-25T13:48:10.973Z"
+  },
+  {
+    "_id": "3vu826umd",
+    "targetRole": "Student",
+    "targetUserId": "IML039",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.015Z",
+    "updatedAt": "2026-07-25T13:48:11.015Z"
+  },
+  {
+    "_id": "0i9rs1lan",
+    "targetRole": "Student",
+    "targetUserId": "IML040",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.056Z",
+    "updatedAt": "2026-07-25T13:48:11.056Z"
+  },
+  {
+    "_id": "umwn3nkoo",
+    "targetRole": "Student",
+    "targetUserId": "IML041",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.099Z",
+    "updatedAt": "2026-07-25T13:48:11.099Z"
+  },
+  {
+    "_id": "6u8wqanbc",
+    "targetRole": "Student",
+    "targetUserId": "IML042",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.139Z",
+    "updatedAt": "2026-07-25T13:48:11.139Z"
+  },
+  {
+    "_id": "graa5vsfj",
+    "targetRole": "Student",
+    "targetUserId": "IML043",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.179Z",
+    "updatedAt": "2026-07-25T13:48:11.179Z"
+  },
+  {
+    "_id": "i1gzph7rf",
+    "targetRole": "Student",
+    "targetUserId": "IML044",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.218Z",
+    "updatedAt": "2026-07-25T13:48:11.218Z"
+  },
+  {
+    "_id": "9tj6b3l3x",
+    "targetRole": "Student",
+    "targetUserId": "IML045",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.260Z",
+    "updatedAt": "2026-07-25T13:48:11.260Z"
+  },
+  {
+    "_id": "bcgldinkh",
+    "targetRole": "Student",
+    "targetUserId": "IML046",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.301Z",
+    "updatedAt": "2026-07-25T13:48:11.301Z"
+  },
+  {
+    "_id": "85wi8rfbs",
+    "targetRole": "Student",
+    "targetUserId": "IML047",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.344Z",
+    "updatedAt": "2026-07-25T13:48:11.344Z"
+  },
+  {
+    "_id": "3w247s9is",
+    "targetRole": "Student",
+    "targetUserId": "IML048",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.385Z",
+    "updatedAt": "2026-07-25T13:48:11.385Z"
+  },
+  {
+    "_id": "j1qx3v2li",
+    "targetRole": "Student",
+    "targetUserId": "IML049",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.428Z",
+    "updatedAt": "2026-07-25T13:48:11.428Z"
+  },
+  {
+    "_id": "juqnyy6fk",
+    "targetRole": "Student",
+    "targetUserId": "IML050",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-25T13:48:11.468Z",
+    "updatedAt": "2026-07-25T13:48:11.468Z"
+  },
+  {
+    "_id": "ltu3buw6q",
+    "targetRole": "Student",
+    "targetUserId": "S1",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.712Z",
+    "updatedAt": "2026-09-19T15:08:11.433Z",
+    "isRead": true
+  },
+  {
+    "_id": "463qoj5se",
+    "targetRole": "Student",
+    "targetUserId": "S2",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.775Z",
+    "updatedAt": "2026-07-27T15:26:15.775Z"
+  },
+  {
+    "_id": "et1equm20",
+    "targetRole": "Student",
+    "targetUserId": "S3",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.816Z",
+    "updatedAt": "2026-07-27T15:26:15.817Z"
+  },
+  {
+    "_id": "3zpvk55k0",
+    "targetRole": "Student",
+    "targetUserId": "S4",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.858Z",
+    "updatedAt": "2026-07-27T15:26:15.858Z"
+  },
+  {
+    "_id": "a921ibmsk",
+    "targetRole": "Student",
+    "targetUserId": "S5",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.900Z",
+    "updatedAt": "2026-07-27T15:26:15.900Z"
+  },
+  {
+    "_id": "qrd05m262",
+    "targetRole": "Student",
+    "targetUserId": "S6",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.949Z",
+    "updatedAt": "2026-07-27T15:26:15.949Z"
+  },
+  {
+    "_id": "eccf9rr86",
+    "targetRole": "Student",
+    "targetUserId": "S7",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:15.991Z",
+    "updatedAt": "2026-07-27T15:26:15.991Z"
+  },
+  {
+    "_id": "w9ic262e7",
+    "targetRole": "Student",
+    "targetUserId": "S8",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.037Z",
+    "updatedAt": "2026-07-27T15:26:16.037Z"
+  },
+  {
+    "_id": "guoy0hezc",
+    "targetRole": "Student",
+    "targetUserId": "S9",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.083Z",
+    "updatedAt": "2026-07-27T15:26:16.083Z"
+  },
+  {
+    "_id": "md58ij0zp",
+    "targetRole": "Student",
+    "targetUserId": "S10",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.128Z",
+    "updatedAt": "2026-07-27T15:26:16.128Z"
+  },
+  {
+    "_id": "wtzbqj0bu",
+    "targetRole": "Student",
+    "targetUserId": "S11",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.173Z",
+    "updatedAt": "2026-07-27T15:26:16.173Z"
+  },
+  {
+    "_id": "012c1relh",
+    "targetRole": "Student",
+    "targetUserId": "S12",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.217Z",
+    "updatedAt": "2026-07-27T15:26:16.217Z"
+  },
+  {
+    "_id": "drcuzfuqt",
+    "targetRole": "Student",
+    "targetUserId": "S13",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.261Z",
+    "updatedAt": "2026-07-27T15:26:16.261Z"
+  },
+  {
+    "_id": "3gbzmw8nz",
+    "targetRole": "Student",
+    "targetUserId": "S14",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.302Z",
+    "updatedAt": "2026-07-27T15:26:16.302Z"
+  },
+  {
+    "_id": "fwu0c0i05",
+    "targetRole": "Student",
+    "targetUserId": "S15",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.345Z",
+    "updatedAt": "2026-07-27T15:26:16.345Z"
+  },
+  {
+    "_id": "l9j8lolm0",
+    "targetRole": "Student",
+    "targetUserId": "S16",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.385Z",
+    "updatedAt": "2026-07-27T15:26:16.385Z"
+  },
+  {
+    "_id": "mn03618ql",
+    "targetRole": "Student",
+    "targetUserId": "S17",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.425Z",
+    "updatedAt": "2026-07-27T15:26:16.425Z"
+  },
+  {
+    "_id": "fjc0v4daz",
+    "targetRole": "Student",
+    "targetUserId": "S18",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.466Z",
+    "updatedAt": "2026-07-27T15:26:16.466Z"
+  },
+  {
+    "_id": "hx5jkuamp",
+    "targetRole": "Student",
+    "targetUserId": "S19",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.507Z",
+    "updatedAt": "2026-07-27T15:26:16.507Z"
+  },
+  {
+    "_id": "sedgehdfv",
+    "targetRole": "Student",
+    "targetUserId": "S20",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.550Z",
+    "updatedAt": "2026-07-27T15:26:16.550Z"
+  },
+  {
+    "_id": "m9azx81ah",
+    "targetRole": "Student",
+    "targetUserId": "S21",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.592Z",
+    "updatedAt": "2026-07-27T15:26:16.592Z"
+  },
+  {
+    "_id": "yur214jwt",
+    "targetRole": "Student",
+    "targetUserId": "S22",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.659Z",
+    "updatedAt": "2026-07-27T15:26:16.659Z"
+  },
+  {
+    "_id": "1fhmqpld5",
+    "targetRole": "Student",
+    "targetUserId": "S23",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.700Z",
+    "updatedAt": "2026-07-27T15:26:16.700Z"
+  },
+  {
+    "_id": "ex5ahc91x",
+    "targetRole": "Student",
+    "targetUserId": "S24",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.740Z",
+    "updatedAt": "2026-07-27T15:26:16.740Z"
+  },
+  {
+    "_id": "599n41kp4",
+    "targetRole": "Student",
+    "targetUserId": "S25",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.780Z",
+    "updatedAt": "2026-07-27T15:26:16.780Z"
+  },
+  {
+    "_id": "ummv9r6v4",
+    "targetRole": "Student",
+    "targetUserId": "S26",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.826Z",
+    "updatedAt": "2026-07-27T15:26:16.826Z"
+  },
+  {
+    "_id": "rer2t8rjd",
+    "targetRole": "Student",
+    "targetUserId": "S27",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.868Z",
+    "updatedAt": "2026-07-27T15:26:16.868Z"
+  },
+  {
+    "_id": "jub88wm7v",
+    "targetRole": "Student",
+    "targetUserId": "S28",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.909Z",
+    "updatedAt": "2026-07-27T15:26:16.910Z"
+  },
+  {
+    "_id": "c14ixkzne",
+    "targetRole": "Student",
+    "targetUserId": "S29",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.951Z",
+    "updatedAt": "2026-07-27T15:26:16.951Z"
+  },
+  {
+    "_id": "4up6cwgio",
+    "targetRole": "Student",
+    "targetUserId": "S30",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:16.992Z",
+    "updatedAt": "2026-07-27T15:26:16.992Z"
+  },
+  {
+    "_id": "9cbrnrqaq",
+    "targetRole": "Student",
+    "targetUserId": "S31",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.035Z",
+    "updatedAt": "2026-07-27T15:26:17.035Z"
+  },
+  {
+    "_id": "aocugiqcw",
+    "targetRole": "Student",
+    "targetUserId": "S32",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.079Z",
+    "updatedAt": "2026-07-27T15:26:17.079Z"
+  },
+  {
+    "_id": "ofyisezy2",
+    "targetRole": "Student",
+    "targetUserId": "S33",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.120Z",
+    "updatedAt": "2026-07-27T15:26:17.120Z"
+  },
+  {
+    "_id": "9t08bs56e",
+    "targetRole": "Student",
+    "targetUserId": "S34",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.162Z",
+    "updatedAt": "2026-07-27T15:26:17.163Z"
+  },
+  {
+    "_id": "9susbb9sl",
+    "targetRole": "Student",
+    "targetUserId": "S35",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.207Z",
+    "updatedAt": "2026-07-27T15:26:17.207Z"
+  },
+  {
+    "_id": "hfk10hviz",
+    "targetRole": "Student",
+    "targetUserId": "S36",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.251Z",
+    "updatedAt": "2026-07-27T15:26:17.251Z"
+  },
+  {
+    "_id": "yycvj62td",
+    "targetRole": "Student",
+    "targetUserId": "S37",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.290Z",
+    "updatedAt": "2026-07-27T15:26:17.290Z"
+  },
+  {
+    "_id": "xuwa6phiu",
+    "targetRole": "Student",
+    "targetUserId": "S38",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.333Z",
+    "updatedAt": "2026-07-27T15:26:17.333Z"
+  },
+  {
+    "_id": "hpdcjz7lz",
+    "targetRole": "Student",
+    "targetUserId": "S39",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.377Z",
+    "updatedAt": "2026-07-27T15:26:17.377Z"
+  },
+  {
+    "_id": "c85zrx665",
+    "targetRole": "Student",
+    "targetUserId": "S40",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.424Z",
+    "updatedAt": "2026-07-27T15:26:17.424Z"
+  },
+  {
+    "_id": "rab7uryf4",
+    "targetRole": "Student",
+    "targetUserId": "S41",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.471Z",
+    "updatedAt": "2026-07-27T15:26:17.471Z"
+  },
+  {
+    "_id": "h6mfn8q8m",
+    "targetRole": "Student",
+    "targetUserId": "S42",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.519Z",
+    "updatedAt": "2026-07-27T15:26:17.519Z"
+  },
+  {
+    "_id": "r8kvu4fwx",
+    "targetRole": "Student",
+    "targetUserId": "S43",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.568Z",
+    "updatedAt": "2026-07-27T15:26:17.568Z"
+  },
+  {
+    "_id": "qwhyaact8",
+    "targetRole": "Student",
+    "targetUserId": "S44",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.614Z",
+    "updatedAt": "2026-07-27T15:26:17.614Z"
+  },
+  {
+    "_id": "ryduszmpu",
+    "targetRole": "Student",
+    "targetUserId": "S45",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.661Z",
+    "updatedAt": "2026-07-27T15:26:17.661Z"
+  },
+  {
+    "_id": "n98slgu3k",
+    "targetRole": "Student",
+    "targetUserId": "S46",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.704Z",
+    "updatedAt": "2026-07-27T15:26:17.704Z"
+  },
+  {
+    "_id": "v11hk64ov",
+    "targetRole": "Student",
+    "targetUserId": "S47",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.746Z",
+    "updatedAt": "2026-07-27T15:26:17.746Z"
+  },
+  {
+    "_id": "ut1o1v1sy",
+    "targetRole": "Student",
+    "targetUserId": "S48",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.790Z",
+    "updatedAt": "2026-07-27T15:26:17.790Z"
+  },
+  {
+    "_id": "v0a6o94e2",
+    "targetRole": "Student",
+    "targetUserId": "S49",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.833Z",
+    "updatedAt": "2026-07-27T15:26:17.833Z"
+  },
+  {
+    "_id": "zss4n54h5",
+    "targetRole": "Student",
+    "targetUserId": "S50",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.878Z",
+    "updatedAt": "2026-07-27T15:26:17.878Z"
+  },
+  {
+    "_id": "znnciq816",
+    "targetRole": "Student",
+    "targetUserId": "S51",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.924Z",
+    "updatedAt": "2026-07-27T15:26:17.924Z"
+  },
+  {
+    "_id": "xdbl6xiqt",
+    "targetRole": "Student",
+    "targetUserId": "S52",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:17.969Z",
+    "updatedAt": "2026-07-27T15:26:17.969Z"
+  },
+  {
+    "_id": "fcn2b4dl3",
+    "targetRole": "Student",
+    "targetUserId": "S53",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.014Z",
+    "updatedAt": "2026-07-27T15:26:18.014Z"
+  },
+  {
+    "_id": "mov323tjq",
+    "targetRole": "Student",
+    "targetUserId": "S54",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.057Z",
+    "updatedAt": "2026-07-27T15:26:18.057Z"
+  },
+  {
+    "_id": "femnfz64v",
+    "targetRole": "Student",
+    "targetUserId": "S55",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.100Z",
+    "updatedAt": "2026-07-27T15:26:18.100Z"
+  },
+  {
+    "_id": "v9xem5mnk",
+    "targetRole": "Student",
+    "targetUserId": "S56",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.143Z",
+    "updatedAt": "2026-07-27T15:26:18.143Z"
+  },
+  {
+    "_id": "0dv8t5ba9",
+    "targetRole": "Student",
+    "targetUserId": "S57",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.186Z",
+    "updatedAt": "2026-07-27T15:26:18.186Z"
+  },
+  {
+    "_id": "d877rthfu",
+    "targetRole": "Student",
+    "targetUserId": "S58",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.233Z",
+    "updatedAt": "2026-07-27T15:26:18.233Z"
+  },
+  {
+    "_id": "k0tvlngws",
+    "targetRole": "Student",
+    "targetUserId": "S59",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.277Z",
+    "updatedAt": "2026-07-27T15:26:18.277Z"
+  },
+  {
+    "_id": "llxhzb6oi",
+    "targetRole": "Student",
+    "targetUserId": "S60",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.318Z",
+    "updatedAt": "2026-07-27T15:26:18.319Z"
+  },
+  {
+    "_id": "4fbrarjn1",
+    "targetRole": "Student",
+    "targetUserId": "S61",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.364Z",
+    "updatedAt": "2026-07-27T15:26:18.364Z"
+  },
+  {
+    "_id": "e6g13x88l",
+    "targetRole": "Student",
+    "targetUserId": "S62",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.439Z",
+    "updatedAt": "2026-07-27T15:26:18.439Z"
+  },
+  {
+    "_id": "dnfrkib5r",
+    "targetRole": "Student",
+    "targetUserId": "S63",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.486Z",
+    "updatedAt": "2026-07-27T15:26:18.486Z"
+  },
+  {
+    "_id": "1kxu1it4h",
+    "targetRole": "Student",
+    "targetUserId": "S64",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.531Z",
+    "updatedAt": "2026-07-27T15:26:18.531Z"
+  },
+  {
+    "_id": "pvnizl9ct",
+    "targetRole": "Student",
+    "targetUserId": "S65",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.575Z",
+    "updatedAt": "2026-07-27T15:26:18.575Z"
+  },
+  {
+    "_id": "76hpjmjdb",
+    "targetRole": "Student",
+    "targetUserId": "S66",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.619Z",
+    "updatedAt": "2026-07-27T15:26:18.619Z"
+  },
+  {
+    "_id": "326x711gx",
+    "targetRole": "Student",
+    "targetUserId": "S67",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.663Z",
+    "updatedAt": "2026-07-27T15:26:18.663Z"
+  },
+  {
+    "_id": "p2toeel6h",
+    "targetRole": "Student",
+    "targetUserId": "S68",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.707Z",
+    "updatedAt": "2026-07-27T15:26:18.707Z"
+  },
+  {
+    "_id": "i5ga771ze",
+    "targetRole": "Student",
+    "targetUserId": "S69",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.751Z",
+    "updatedAt": "2026-07-27T15:26:18.751Z"
+  },
+  {
+    "_id": "6447rqdx9",
+    "targetRole": "Student",
+    "targetUserId": "S70",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.794Z",
+    "updatedAt": "2026-07-27T15:26:18.794Z"
+  },
+  {
+    "_id": "3ny4er2xv",
+    "targetRole": "Student",
+    "targetUserId": "S71",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.839Z",
+    "updatedAt": "2026-07-27T15:26:18.839Z"
+  },
+  {
+    "_id": "w38nm4b3g",
+    "targetRole": "Student",
+    "targetUserId": "S72",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.883Z",
+    "updatedAt": "2026-07-27T15:26:18.883Z"
+  },
+  {
+    "_id": "60l0cp5ov",
+    "targetRole": "Student",
+    "targetUserId": "S73",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.927Z",
+    "updatedAt": "2026-07-27T15:26:18.927Z"
+  },
+  {
+    "_id": "6rzafjt2j",
+    "targetRole": "Student",
+    "targetUserId": "S74",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:18.968Z",
+    "updatedAt": "2026-07-27T15:26:18.968Z"
+  },
+  {
+    "_id": "e752g3x7k",
+    "targetRole": "Student",
+    "targetUserId": "S75",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.010Z",
+    "updatedAt": "2026-07-27T15:26:19.010Z"
+  },
+  {
+    "_id": "7n00gaviv",
+    "targetRole": "Student",
+    "targetUserId": "S76",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.052Z",
+    "updatedAt": "2026-07-27T15:26:19.052Z"
+  },
+  {
+    "_id": "49dq9fjso",
+    "targetRole": "Student",
+    "targetUserId": "S77",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.094Z",
+    "updatedAt": "2026-07-27T15:26:19.094Z"
+  },
+  {
+    "_id": "efjiho6er",
+    "targetRole": "Student",
+    "targetUserId": "S78",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.141Z",
+    "updatedAt": "2026-07-27T15:26:19.141Z"
+  },
+  {
+    "_id": "uzpksld7n",
+    "targetRole": "Student",
+    "targetUserId": "S79",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.180Z",
+    "updatedAt": "2026-07-27T15:26:19.180Z"
+  },
+  {
+    "_id": "dk7o0794g",
+    "targetRole": "Student",
+    "targetUserId": "S80",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.226Z",
+    "updatedAt": "2026-07-27T15:26:19.226Z"
+  },
+  {
+    "_id": "zta9u4v29",
+    "targetRole": "Student",
+    "targetUserId": "S81",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.277Z",
+    "updatedAt": "2026-07-27T15:26:19.277Z"
+  },
+  {
+    "_id": "ic6ff9oel",
+    "targetRole": "Student",
+    "targetUserId": "S82",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.323Z",
+    "updatedAt": "2026-07-27T15:26:19.323Z"
+  },
+  {
+    "_id": "ovyi7gwx6",
+    "targetRole": "Student",
+    "targetUserId": "S83",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.363Z",
+    "updatedAt": "2026-07-27T15:26:19.363Z"
+  },
+  {
+    "_id": "e4zk2hh9c",
+    "targetRole": "Student",
+    "targetUserId": "S84",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.408Z",
+    "updatedAt": "2026-07-27T15:26:19.408Z"
+  },
+  {
+    "_id": "gfjizzv68",
+    "targetRole": "Student",
+    "targetUserId": "S85",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.455Z",
+    "updatedAt": "2026-07-27T15:26:19.455Z"
+  },
+  {
+    "_id": "63f1z4s15",
+    "targetRole": "Student",
+    "targetUserId": "S86",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.492Z",
+    "updatedAt": "2026-07-27T15:26:19.492Z"
+  },
+  {
+    "_id": "rjwi0iz5o",
+    "targetRole": "Student",
+    "targetUserId": "S87",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.536Z",
+    "updatedAt": "2026-07-27T15:26:19.536Z"
+  },
+  {
+    "_id": "0edh706rx",
+    "targetRole": "Student",
+    "targetUserId": "S88",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.583Z",
+    "updatedAt": "2026-07-27T15:26:19.583Z"
+  },
+  {
+    "_id": "e40qbeps3",
+    "targetRole": "Student",
+    "targetUserId": "S89",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.628Z",
+    "updatedAt": "2026-07-27T15:26:19.628Z"
+  },
+  {
+    "_id": "4jqnlkst7",
+    "targetRole": "Student",
+    "targetUserId": "S90",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.674Z",
+    "updatedAt": "2026-07-27T15:26:19.674Z"
+  },
+  {
+    "_id": "9s8xw4xah",
+    "targetRole": "Student",
+    "targetUserId": "S91",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.719Z",
+    "updatedAt": "2026-07-27T15:26:19.719Z"
+  },
+  {
+    "_id": "98so33xb3",
+    "targetRole": "Student",
+    "targetUserId": "S92",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.773Z",
+    "updatedAt": "2026-07-27T15:26:19.773Z"
+  },
+  {
+    "_id": "5jy3huuel",
+    "targetRole": "Student",
+    "targetUserId": "S93",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.822Z",
+    "updatedAt": "2026-07-27T15:26:19.822Z"
+  },
+  {
+    "_id": "mdqacqr17",
+    "targetRole": "Student",
+    "targetUserId": "S94",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.867Z",
+    "updatedAt": "2026-07-27T15:26:19.867Z"
+  },
+  {
+    "_id": "adutnxt5j",
+    "targetRole": "Student",
+    "targetUserId": "S95",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.913Z",
+    "updatedAt": "2026-07-27T15:26:19.913Z"
+  },
+  {
+    "_id": "p9myx86bf",
+    "targetRole": "Student",
+    "targetUserId": "S96",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:19.961Z",
+    "updatedAt": "2026-07-27T15:26:19.961Z"
+  },
+  {
+    "_id": "0kx0rv6kh",
+    "targetRole": "Student",
+    "targetUserId": "S97",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:20.005Z",
+    "updatedAt": "2026-07-27T15:26:20.005Z"
+  },
+  {
+    "_id": "790btsjkd",
+    "targetRole": "Student",
+    "targetUserId": "S98",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:20.051Z",
+    "updatedAt": "2026-07-27T15:26:20.051Z"
+  },
+  {
+    "_id": "pe8oh37od",
+    "targetRole": "Student",
+    "targetUserId": "S99",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:20.098Z",
+    "updatedAt": "2026-07-27T15:26:20.098Z"
+  },
+  {
+    "_id": "celkdpmmd",
+    "targetRole": "Student",
+    "targetUserId": "S100",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T15:26:20.142Z",
+    "updatedAt": "2026-07-27T15:26:20.142Z"
+  },
+  {
+    "_id": "cr6h9wc16",
+    "targetRole": "Student",
+    "targetUserId": "S1",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.688Z",
+    "updatedAt": "2026-09-19T15:07:58.881Z",
+    "isRead": true
+  },
+  {
+    "_id": "41ytliw4u",
+    "targetRole": "Student",
+    "targetUserId": "S2",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.733Z",
+    "updatedAt": "2026-07-27T16:27:35.733Z"
+  },
+  {
+    "_id": "siu92ksby",
+    "targetRole": "Student",
+    "targetUserId": "S3",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.774Z",
+    "updatedAt": "2026-07-27T16:27:35.774Z"
+  },
+  {
+    "_id": "90s298r2g",
+    "targetRole": "Student",
+    "targetUserId": "S4",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.819Z",
+    "updatedAt": "2026-07-27T16:27:35.819Z"
+  },
+  {
+    "_id": "vz3626eyz",
+    "targetRole": "Student",
+    "targetUserId": "S5",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.863Z",
+    "updatedAt": "2026-07-27T16:27:35.863Z"
+  },
+  {
+    "_id": "u7h9ahk8n",
+    "targetRole": "Student",
+    "targetUserId": "S6",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.902Z",
+    "updatedAt": "2026-07-27T16:27:35.902Z"
+  },
+  {
+    "_id": "d90f58o8k",
+    "targetRole": "Student",
+    "targetUserId": "S7",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.944Z",
+    "updatedAt": "2026-07-27T16:27:35.944Z"
+  },
+  {
+    "_id": "bhcu6nm97",
+    "targetRole": "Student",
+    "targetUserId": "S8",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:35.984Z",
+    "updatedAt": "2026-07-27T16:27:35.984Z"
+  },
+  {
+    "_id": "d98zo8srj",
+    "targetRole": "Student",
+    "targetUserId": "S9",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.030Z",
+    "updatedAt": "2026-07-27T16:27:36.030Z"
+  },
+  {
+    "_id": "4ihuynm2n",
+    "targetRole": "Student",
+    "targetUserId": "S10",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.073Z",
+    "updatedAt": "2026-07-27T16:27:36.073Z"
+  },
+  {
+    "_id": "xh37mj5lq",
+    "targetRole": "Student",
+    "targetUserId": "S11",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.118Z",
+    "updatedAt": "2026-07-27T16:27:36.118Z"
+  },
+  {
+    "_id": "74n9y0my7",
+    "targetRole": "Student",
+    "targetUserId": "S12",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.160Z",
+    "updatedAt": "2026-07-27T16:27:36.160Z"
+  },
+  {
+    "_id": "4t7oe0y6z",
+    "targetRole": "Student",
+    "targetUserId": "S13",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.197Z",
+    "updatedAt": "2026-07-27T16:27:36.197Z"
+  },
+  {
+    "_id": "w0czmmj4m",
+    "targetRole": "Student",
+    "targetUserId": "S14",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.237Z",
+    "updatedAt": "2026-07-27T16:27:36.237Z"
+  },
+  {
+    "_id": "mz05qe0kb",
+    "targetRole": "Student",
+    "targetUserId": "S15",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.285Z",
+    "updatedAt": "2026-07-27T16:27:36.285Z"
+  },
+  {
+    "_id": "xlaal0ev4",
+    "targetRole": "Student",
+    "targetUserId": "S16",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.330Z",
+    "updatedAt": "2026-07-27T16:27:36.331Z"
+  },
+  {
+    "_id": "6487lcyy4",
+    "targetRole": "Student",
+    "targetUserId": "S17",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.374Z",
+    "updatedAt": "2026-07-27T16:27:36.374Z"
+  },
+  {
+    "_id": "pheb2nil3",
+    "targetRole": "Student",
+    "targetUserId": "S18",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.419Z",
+    "updatedAt": "2026-07-27T16:27:36.419Z"
+  },
+  {
+    "_id": "m4zn6p5xz",
+    "targetRole": "Student",
+    "targetUserId": "S19",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.465Z",
+    "updatedAt": "2026-07-27T16:27:36.465Z"
+  },
+  {
+    "_id": "fradafw19",
+    "targetRole": "Student",
+    "targetUserId": "S20",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.505Z",
+    "updatedAt": "2026-07-27T16:27:36.505Z"
+  },
+  {
+    "_id": "113n0j1im",
+    "targetRole": "Student",
+    "targetUserId": "S21",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.542Z",
+    "updatedAt": "2026-07-27T16:27:36.542Z"
+  },
+  {
+    "_id": "6jk2e2xcp",
+    "targetRole": "Student",
+    "targetUserId": "S22",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.582Z",
+    "updatedAt": "2026-07-27T16:27:36.582Z"
+  },
+  {
+    "_id": "t3xlz3in0",
+    "targetRole": "Student",
+    "targetUserId": "S23",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.618Z",
+    "updatedAt": "2026-07-27T16:27:36.618Z"
+  },
+  {
+    "_id": "ub36pvkvx",
+    "targetRole": "Student",
+    "targetUserId": "S24",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.656Z",
+    "updatedAt": "2026-07-27T16:27:36.656Z"
+  },
+  {
+    "_id": "twfeem0hi",
+    "targetRole": "Student",
+    "targetUserId": "S25",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.694Z",
+    "updatedAt": "2026-07-27T16:27:36.694Z"
+  },
+  {
+    "_id": "n1q0jyyor",
+    "targetRole": "Student",
+    "targetUserId": "S26",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.732Z",
+    "updatedAt": "2026-07-27T16:27:36.732Z"
+  },
+  {
+    "_id": "devb203cu",
+    "targetRole": "Student",
+    "targetUserId": "S27",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.772Z",
+    "updatedAt": "2026-07-27T16:27:36.772Z"
+  },
+  {
+    "_id": "lkg1fjza8",
+    "targetRole": "Student",
+    "targetUserId": "S28",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.812Z",
+    "updatedAt": "2026-07-27T16:27:36.812Z"
+  },
+  {
+    "_id": "j3q6isflj",
+    "targetRole": "Student",
+    "targetUserId": "S29",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.843Z",
+    "updatedAt": "2026-07-27T16:27:36.843Z"
+  },
+  {
+    "_id": "ci4ceqc85",
+    "targetRole": "Student",
+    "targetUserId": "S30",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.880Z",
+    "updatedAt": "2026-07-27T16:27:36.880Z"
+  },
+  {
+    "_id": "vxrywpjyl",
+    "targetRole": "Student",
+    "targetUserId": "S31",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.930Z",
+    "updatedAt": "2026-07-27T16:27:36.930Z"
+  },
+  {
+    "_id": "4xf0967t0",
+    "targetRole": "Student",
+    "targetUserId": "S32",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:36.971Z",
+    "updatedAt": "2026-07-27T16:27:36.971Z"
+  },
+  {
+    "_id": "9z1wxz1k4",
+    "targetRole": "Student",
+    "targetUserId": "S33",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.011Z",
+    "updatedAt": "2026-07-27T16:27:37.011Z"
+  },
+  {
+    "_id": "zyh9aq0yb",
+    "targetRole": "Student",
+    "targetUserId": "S34",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.053Z",
+    "updatedAt": "2026-07-27T16:27:37.053Z"
+  },
+  {
+    "_id": "mzc8keikk",
+    "targetRole": "Student",
+    "targetUserId": "S35",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.098Z",
+    "updatedAt": "2026-07-27T16:27:37.098Z"
+  },
+  {
+    "_id": "8eqw7q106",
+    "targetRole": "Student",
+    "targetUserId": "S36",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.138Z",
+    "updatedAt": "2026-07-27T16:27:37.138Z"
+  },
+  {
+    "_id": "a3rzpva7g",
+    "targetRole": "Student",
+    "targetUserId": "S37",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.182Z",
+    "updatedAt": "2026-07-27T16:27:37.182Z"
+  },
+  {
+    "_id": "qxtus2lh7",
+    "targetRole": "Student",
+    "targetUserId": "S38",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.224Z",
+    "updatedAt": "2026-07-27T16:27:37.224Z"
+  },
+  {
+    "_id": "y3x6anu6b",
+    "targetRole": "Student",
+    "targetUserId": "S39",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.268Z",
+    "updatedAt": "2026-07-27T16:27:37.268Z"
+  },
+  {
+    "_id": "5znkb4tdx",
+    "targetRole": "Student",
+    "targetUserId": "S40",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.305Z",
+    "updatedAt": "2026-07-27T16:27:37.305Z"
+  },
+  {
+    "_id": "86oxjc440",
+    "targetRole": "Student",
+    "targetUserId": "S41",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.347Z",
+    "updatedAt": "2026-07-27T16:27:37.347Z"
+  },
+  {
+    "_id": "1a06gt3q4",
+    "targetRole": "Student",
+    "targetUserId": "S42",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.389Z",
+    "updatedAt": "2026-07-27T16:27:37.389Z"
+  },
+  {
+    "_id": "o3df6kng4",
+    "targetRole": "Student",
+    "targetUserId": "S43",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.431Z",
+    "updatedAt": "2026-07-27T16:27:37.431Z"
+  },
+  {
+    "_id": "7mp691r1l",
+    "targetRole": "Student",
+    "targetUserId": "S44",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.476Z",
+    "updatedAt": "2026-07-27T16:27:37.476Z"
+  },
+  {
+    "_id": "avc8lfsfn",
+    "targetRole": "Student",
+    "targetUserId": "S45",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.550Z",
+    "updatedAt": "2026-07-27T16:27:37.550Z"
+  },
+  {
+    "_id": "n0fdwl1fe",
+    "targetRole": "Student",
+    "targetUserId": "S46",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.587Z",
+    "updatedAt": "2026-07-27T16:27:37.587Z"
+  },
+  {
+    "_id": "2k6cj8h2e",
+    "targetRole": "Student",
+    "targetUserId": "S47",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.627Z",
+    "updatedAt": "2026-07-27T16:27:37.627Z"
+  },
+  {
+    "_id": "4jma40vi4",
+    "targetRole": "Student",
+    "targetUserId": "S48",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.676Z",
+    "updatedAt": "2026-07-27T16:27:37.676Z"
+  },
+  {
+    "_id": "ojx8uhwox",
+    "targetRole": "Student",
+    "targetUserId": "S49",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.716Z",
+    "updatedAt": "2026-07-27T16:27:37.717Z"
+  },
+  {
+    "_id": "tsdisltjo",
+    "targetRole": "Student",
+    "targetUserId": "S50",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.758Z",
+    "updatedAt": "2026-07-27T16:27:37.758Z"
+  },
+  {
+    "_id": "csod0jrna",
+    "targetRole": "Student",
+    "targetUserId": "S51",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.798Z",
+    "updatedAt": "2026-07-27T16:27:37.798Z"
+  },
+  {
+    "_id": "7mwe6f7l4",
+    "targetRole": "Student",
+    "targetUserId": "S52",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.838Z",
+    "updatedAt": "2026-07-27T16:27:37.838Z"
+  },
+  {
+    "_id": "j6fveyxgf",
+    "targetRole": "Student",
+    "targetUserId": "S53",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.879Z",
+    "updatedAt": "2026-07-27T16:27:37.879Z"
+  },
+  {
+    "_id": "nszkwhmmb",
+    "targetRole": "Student",
+    "targetUserId": "S54",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.917Z",
+    "updatedAt": "2026-07-27T16:27:37.917Z"
+  },
+  {
+    "_id": "o1n51kvgp",
+    "targetRole": "Student",
+    "targetUserId": "S55",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.957Z",
+    "updatedAt": "2026-07-27T16:27:37.957Z"
+  },
+  {
+    "_id": "edd4ixi4l",
+    "targetRole": "Student",
+    "targetUserId": "S56",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:37.994Z",
+    "updatedAt": "2026-07-27T16:27:37.994Z"
+  },
+  {
+    "_id": "t5r320389",
+    "targetRole": "Student",
+    "targetUserId": "S57",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.036Z",
+    "updatedAt": "2026-07-27T16:27:38.036Z"
+  },
+  {
+    "_id": "chfiqgmhq",
+    "targetRole": "Student",
+    "targetUserId": "S58",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.066Z",
+    "updatedAt": "2026-07-27T16:27:38.066Z"
+  },
+  {
+    "_id": "jxhd6nir7",
+    "targetRole": "Student",
+    "targetUserId": "S59",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.106Z",
+    "updatedAt": "2026-07-27T16:27:38.106Z"
+  },
+  {
+    "_id": "mhser01ze",
+    "targetRole": "Student",
+    "targetUserId": "S60",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.148Z",
+    "updatedAt": "2026-07-27T16:27:38.148Z"
+  },
+  {
+    "_id": "ci84kdm9r",
+    "targetRole": "Student",
+    "targetUserId": "S61",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.190Z",
+    "updatedAt": "2026-07-27T16:27:38.190Z"
+  },
+  {
+    "_id": "j24usk31a",
+    "targetRole": "Student",
+    "targetUserId": "S62",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.229Z",
+    "updatedAt": "2026-07-27T16:27:38.229Z"
+  },
+  {
+    "_id": "qix9x1nie",
+    "targetRole": "Student",
+    "targetUserId": "S63",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.268Z",
+    "updatedAt": "2026-07-27T16:27:38.268Z"
+  },
+  {
+    "_id": "3wr3614y9",
+    "targetRole": "Student",
+    "targetUserId": "S64",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.307Z",
+    "updatedAt": "2026-07-27T16:27:38.307Z"
+  },
+  {
+    "_id": "ebsrpkiqm",
+    "targetRole": "Student",
+    "targetUserId": "S65",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.351Z",
+    "updatedAt": "2026-07-27T16:27:38.351Z"
+  },
+  {
+    "_id": "rlsi76c8i",
+    "targetRole": "Student",
+    "targetUserId": "S66",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.390Z",
+    "updatedAt": "2026-07-27T16:27:38.390Z"
+  },
+  {
+    "_id": "pqd6baj87",
+    "targetRole": "Student",
+    "targetUserId": "S67",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.431Z",
+    "updatedAt": "2026-07-27T16:27:38.431Z"
+  },
+  {
+    "_id": "e7toytoy1",
+    "targetRole": "Student",
+    "targetUserId": "S68",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.468Z",
+    "updatedAt": "2026-07-27T16:27:38.468Z"
+  },
+  {
+    "_id": "xv61px3pn",
+    "targetRole": "Student",
+    "targetUserId": "S69",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.509Z",
+    "updatedAt": "2026-07-27T16:27:38.509Z"
+  },
+  {
+    "_id": "a97knov1g",
+    "targetRole": "Student",
+    "targetUserId": "S70",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.556Z",
+    "updatedAt": "2026-07-27T16:27:38.556Z"
+  },
+  {
+    "_id": "088yswl36",
+    "targetRole": "Student",
+    "targetUserId": "S71",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.601Z",
+    "updatedAt": "2026-07-27T16:27:38.602Z"
+  },
+  {
+    "_id": "d62ldpohw",
+    "targetRole": "Student",
+    "targetUserId": "S72",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.641Z",
+    "updatedAt": "2026-07-27T16:27:38.641Z"
+  },
+  {
+    "_id": "7ltoc882f",
+    "targetRole": "Student",
+    "targetUserId": "S73",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.681Z",
+    "updatedAt": "2026-07-27T16:27:38.681Z"
+  },
+  {
+    "_id": "ps5j2x21f",
+    "targetRole": "Student",
+    "targetUserId": "S74",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.721Z",
+    "updatedAt": "2026-07-27T16:27:38.721Z"
+  },
+  {
+    "_id": "jmo5rpjic",
+    "targetRole": "Student",
+    "targetUserId": "S75",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.764Z",
+    "updatedAt": "2026-07-27T16:27:38.764Z"
+  },
+  {
+    "_id": "o650min6o",
+    "targetRole": "Student",
+    "targetUserId": "S76",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.805Z",
+    "updatedAt": "2026-07-27T16:27:38.805Z"
+  },
+  {
+    "_id": "i6kj4ogff",
+    "targetRole": "Student",
+    "targetUserId": "S77",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.866Z",
+    "updatedAt": "2026-07-27T16:27:38.866Z"
+  },
+  {
+    "_id": "cfcklccez",
+    "targetRole": "Student",
+    "targetUserId": "S78",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.925Z",
+    "updatedAt": "2026-07-27T16:27:38.925Z"
+  },
+  {
+    "_id": "juajd8f4s",
+    "targetRole": "Student",
+    "targetUserId": "S79",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:38.963Z",
+    "updatedAt": "2026-07-27T16:27:38.963Z"
+  },
+  {
+    "_id": "ibe7iv0o5",
+    "targetRole": "Student",
+    "targetUserId": "S80",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.001Z",
+    "updatedAt": "2026-07-27T16:27:39.001Z"
+  },
+  {
+    "_id": "6q3u4auao",
+    "targetRole": "Student",
+    "targetUserId": "S81",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.042Z",
+    "updatedAt": "2026-07-27T16:27:39.042Z"
+  },
+  {
+    "_id": "zpd8x6lbw",
+    "targetRole": "Student",
+    "targetUserId": "S82",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.086Z",
+    "updatedAt": "2026-07-27T16:27:39.086Z"
+  },
+  {
+    "_id": "s3xf6j8ot",
+    "targetRole": "Student",
+    "targetUserId": "S83",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.126Z",
+    "updatedAt": "2026-07-27T16:27:39.126Z"
+  },
+  {
+    "_id": "ud6mq2ol7",
+    "targetRole": "Student",
+    "targetUserId": "S84",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.165Z",
+    "updatedAt": "2026-07-27T16:27:39.165Z"
+  },
+  {
+    "_id": "sn6f2o5h6",
+    "targetRole": "Student",
+    "targetUserId": "S85",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.204Z",
+    "updatedAt": "2026-07-27T16:27:39.204Z"
+  },
+  {
+    "_id": "pdt22ic3m",
+    "targetRole": "Student",
+    "targetUserId": "S86",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.245Z",
+    "updatedAt": "2026-07-27T16:27:39.245Z"
+  },
+  {
+    "_id": "wx1iq5ej5",
+    "targetRole": "Student",
+    "targetUserId": "S87",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.286Z",
+    "updatedAt": "2026-07-27T16:27:39.286Z"
+  },
+  {
+    "_id": "jrnzfd5cb",
+    "targetRole": "Student",
+    "targetUserId": "S88",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.327Z",
+    "updatedAt": "2026-07-27T16:27:39.327Z"
+  },
+  {
+    "_id": "aazzc5u69",
+    "targetRole": "Student",
+    "targetUserId": "S89",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.371Z",
+    "updatedAt": "2026-07-27T16:27:39.371Z"
+  },
+  {
+    "_id": "xkddqtqqw",
+    "targetRole": "Student",
+    "targetUserId": "S90",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.409Z",
+    "updatedAt": "2026-07-27T16:27:39.409Z"
+  },
+  {
+    "_id": "sftn1cgj9",
+    "targetRole": "Student",
+    "targetUserId": "S91",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.448Z",
+    "updatedAt": "2026-07-27T16:27:39.448Z"
+  },
+  {
+    "_id": "scepjmtty",
+    "targetRole": "Student",
+    "targetUserId": "S92",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.488Z",
+    "updatedAt": "2026-07-27T16:27:39.488Z"
+  },
+  {
+    "_id": "ls861oahz",
+    "targetRole": "Student",
+    "targetUserId": "S93",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.527Z",
+    "updatedAt": "2026-07-27T16:27:39.527Z"
+  },
+  {
+    "_id": "ghesfo9rj",
+    "targetRole": "Student",
+    "targetUserId": "S94",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.566Z",
+    "updatedAt": "2026-07-27T16:27:39.566Z"
+  },
+  {
+    "_id": "weginj1z9",
+    "targetRole": "Student",
+    "targetUserId": "S95",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.605Z",
+    "updatedAt": "2026-07-27T16:27:39.605Z"
+  },
+  {
+    "_id": "i74efatcc",
+    "targetRole": "Student",
+    "targetUserId": "S96",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.644Z",
+    "updatedAt": "2026-07-27T16:27:39.644Z"
+  },
+  {
+    "_id": "f26647bn0",
+    "targetRole": "Student",
+    "targetUserId": "S97",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.684Z",
+    "updatedAt": "2026-07-27T16:27:39.684Z"
+  },
+  {
+    "_id": "0na10hlm1",
+    "targetRole": "Student",
+    "targetUserId": "S98",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.723Z",
+    "updatedAt": "2026-07-27T16:27:39.723Z"
+  },
+  {
+    "_id": "3ez920b2y",
+    "targetRole": "Student",
+    "targetUserId": "S99",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.761Z",
+    "updatedAt": "2026-07-27T16:27:39.761Z"
+  },
+  {
+    "_id": "uymjmqlgm",
+    "targetRole": "Student",
+    "targetUserId": "S100",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T16:27:39.799Z",
+    "updatedAt": "2026-07-27T16:27:39.799Z"
+  },
+  {
+    "_id": "b8yay4opz",
+    "targetRole": "Student",
+    "targetUserId": "S1",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:08.840Z",
+    "updatedAt": "2026-09-19T15:08:01.065Z",
+    "isRead": true
+  },
+  {
+    "_id": "4rknf86ta",
+    "targetRole": "Student",
+    "targetUserId": "S2",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:08.882Z",
+    "updatedAt": "2026-07-27T17:52:08.882Z"
+  },
+  {
+    "_id": "aqy2u5sq1",
+    "targetRole": "Student",
+    "targetUserId": "S3",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:08.920Z",
+    "updatedAt": "2026-07-27T17:52:08.920Z"
+  },
+  {
+    "_id": "561o7fq61",
+    "targetRole": "Student",
+    "targetUserId": "S4",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:08.958Z",
+    "updatedAt": "2026-07-27T17:52:08.958Z"
+  },
+  {
+    "_id": "ua6630y71",
+    "targetRole": "Student",
+    "targetUserId": "S5",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:08.992Z",
+    "updatedAt": "2026-07-27T17:52:08.992Z"
+  },
+  {
+    "_id": "ekemnlrxw",
+    "targetRole": "Student",
+    "targetUserId": "S6",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.026Z",
+    "updatedAt": "2026-07-27T17:52:09.026Z"
+  },
+  {
+    "_id": "1sz9q9mo9",
+    "targetRole": "Student",
+    "targetUserId": "S7",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.060Z",
+    "updatedAt": "2026-07-27T17:52:09.060Z"
+  },
+  {
+    "_id": "t84w9kaw6",
+    "targetRole": "Student",
+    "targetUserId": "S8",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.096Z",
+    "updatedAt": "2026-07-27T17:52:09.096Z"
+  },
+  {
+    "_id": "9evu23lcv",
+    "targetRole": "Student",
+    "targetUserId": "S9",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.134Z",
+    "updatedAt": "2026-07-27T17:52:09.134Z"
+  },
+  {
+    "_id": "92bjr3lr8",
+    "targetRole": "Student",
+    "targetUserId": "S10",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.169Z",
+    "updatedAt": "2026-07-27T17:52:09.169Z"
+  },
+  {
+    "_id": "rjflyh663",
+    "targetRole": "Student",
+    "targetUserId": "S11",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.209Z",
+    "updatedAt": "2026-07-27T17:52:09.209Z"
+  },
+  {
+    "_id": "ohi35i453",
+    "targetRole": "Student",
+    "targetUserId": "S12",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.248Z",
+    "updatedAt": "2026-07-27T17:52:09.248Z"
+  },
+  {
+    "_id": "fhpgtih6p",
+    "targetRole": "Student",
+    "targetUserId": "S13",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.286Z",
+    "updatedAt": "2026-07-27T17:52:09.286Z"
+  },
+  {
+    "_id": "jxe7ao8yg",
+    "targetRole": "Student",
+    "targetUserId": "S14",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.310Z",
+    "updatedAt": "2026-07-27T17:52:09.310Z"
+  },
+  {
+    "_id": "leeclysaw",
+    "targetRole": "Student",
+    "targetUserId": "S15",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.340Z",
+    "updatedAt": "2026-07-27T17:52:09.340Z"
+  },
+  {
+    "_id": "6xfxugxme",
+    "targetRole": "Student",
+    "targetUserId": "S16",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.379Z",
+    "updatedAt": "2026-07-27T17:52:09.379Z"
+  },
+  {
+    "_id": "30wic16pw",
+    "targetRole": "Student",
+    "targetUserId": "S17",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.412Z",
+    "updatedAt": "2026-07-27T17:52:09.412Z"
+  },
+  {
+    "_id": "g9a3l7x16",
+    "targetRole": "Student",
+    "targetUserId": "S18",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.452Z",
+    "updatedAt": "2026-07-27T17:52:09.452Z"
+  },
+  {
+    "_id": "ccyz2e7zq",
+    "targetRole": "Student",
+    "targetUserId": "S19",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.477Z",
+    "updatedAt": "2026-07-27T17:52:09.477Z"
+  },
+  {
+    "_id": "3tau59oh2",
+    "targetRole": "Student",
+    "targetUserId": "S20",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.512Z",
+    "updatedAt": "2026-07-27T17:52:09.513Z"
+  },
+  {
+    "_id": "vfe83vj39",
+    "targetRole": "Student",
+    "targetUserId": "S21",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.545Z",
+    "updatedAt": "2026-07-27T17:52:09.545Z"
+  },
+  {
+    "_id": "0s6l5b0j5",
+    "targetRole": "Student",
+    "targetUserId": "S22",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.585Z",
+    "updatedAt": "2026-07-27T17:52:09.585Z"
+  },
+  {
+    "_id": "w6o9prb67",
+    "targetRole": "Student",
+    "targetUserId": "S23",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.623Z",
+    "updatedAt": "2026-07-27T17:52:09.623Z"
+  },
+  {
+    "_id": "cchtvgn3x",
+    "targetRole": "Student",
+    "targetUserId": "S24",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.662Z",
+    "updatedAt": "2026-07-27T17:52:09.662Z"
+  },
+  {
+    "_id": "jxye3rpzf",
+    "targetRole": "Student",
+    "targetUserId": "S25",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.703Z",
+    "updatedAt": "2026-07-27T17:52:09.703Z"
+  },
+  {
+    "_id": "vrgshfaqt",
+    "targetRole": "Student",
+    "targetUserId": "S26",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.738Z",
+    "updatedAt": "2026-07-27T17:52:09.738Z"
+  },
+  {
+    "_id": "qo35r1rcz",
+    "targetRole": "Student",
+    "targetUserId": "S27",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.771Z",
+    "updatedAt": "2026-07-27T17:52:09.771Z"
+  },
+  {
+    "_id": "f7eteknfe",
+    "targetRole": "Student",
+    "targetUserId": "S28",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.804Z",
+    "updatedAt": "2026-07-27T17:52:09.804Z"
+  },
+  {
+    "_id": "cci11lhsf",
+    "targetRole": "Student",
+    "targetUserId": "S29",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.842Z",
+    "updatedAt": "2026-07-27T17:52:09.842Z"
+  },
+  {
+    "_id": "t49jo4sun",
+    "targetRole": "Student",
+    "targetUserId": "S30",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.882Z",
+    "updatedAt": "2026-07-27T17:52:09.882Z"
+  },
+  {
+    "_id": "fga8q83en",
+    "targetRole": "Student",
+    "targetUserId": "S31",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.915Z",
+    "updatedAt": "2026-07-27T17:52:09.915Z"
+  },
+  {
+    "_id": "11hex4uam",
+    "targetRole": "Student",
+    "targetUserId": "S32",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.950Z",
+    "updatedAt": "2026-07-27T17:52:09.951Z"
+  },
+  {
+    "_id": "ycfgnbzxe",
+    "targetRole": "Student",
+    "targetUserId": "S33",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:09.983Z",
+    "updatedAt": "2026-07-27T17:52:09.983Z"
+  },
+  {
+    "_id": "jcwd68ggk",
+    "targetRole": "Student",
+    "targetUserId": "S34",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.023Z",
+    "updatedAt": "2026-07-27T17:52:10.023Z"
+  },
+  {
+    "_id": "wtntzgz5h",
+    "targetRole": "Student",
+    "targetUserId": "S35",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.056Z",
+    "updatedAt": "2026-07-27T17:52:10.056Z"
+  },
+  {
+    "_id": "htsick8j3",
+    "targetRole": "Student",
+    "targetUserId": "S36",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.087Z",
+    "updatedAt": "2026-07-27T17:52:10.087Z"
+  },
+  {
+    "_id": "jt9hma6e5",
+    "targetRole": "Student",
+    "targetUserId": "S37",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.118Z",
+    "updatedAt": "2026-07-27T17:52:10.118Z"
+  },
+  {
+    "_id": "7f0w2mdjz",
+    "targetRole": "Student",
+    "targetUserId": "S38",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.147Z",
+    "updatedAt": "2026-07-27T17:52:10.147Z"
+  },
+  {
+    "_id": "86m9yd2ug",
+    "targetRole": "Student",
+    "targetUserId": "S39",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.178Z",
+    "updatedAt": "2026-07-27T17:52:10.178Z"
+  },
+  {
+    "_id": "sys8f4fw4",
+    "targetRole": "Student",
+    "targetUserId": "S40",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.208Z",
+    "updatedAt": "2026-07-27T17:52:10.208Z"
+  },
+  {
+    "_id": "2tqwpdug3",
+    "targetRole": "Student",
+    "targetUserId": "S41",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.241Z",
+    "updatedAt": "2026-07-27T17:52:10.241Z"
+  },
+  {
+    "_id": "8umepx5xx",
+    "targetRole": "Student",
+    "targetUserId": "S42",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.274Z",
+    "updatedAt": "2026-07-27T17:52:10.274Z"
+  },
+  {
+    "_id": "6ldfz8c3t",
+    "targetRole": "Student",
+    "targetUserId": "S43",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.310Z",
+    "updatedAt": "2026-07-27T17:52:10.310Z"
+  },
+  {
+    "_id": "tzyek0jsm",
+    "targetRole": "Student",
+    "targetUserId": "S44",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.345Z",
+    "updatedAt": "2026-07-27T17:52:10.345Z"
+  },
+  {
+    "_id": "ud3287mtd",
+    "targetRole": "Student",
+    "targetUserId": "S45",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.383Z",
+    "updatedAt": "2026-07-27T17:52:10.383Z"
+  },
+  {
+    "_id": "dawy469ga",
+    "targetRole": "Student",
+    "targetUserId": "S46",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.415Z",
+    "updatedAt": "2026-07-27T17:52:10.415Z"
+  },
+  {
+    "_id": "q6syd3kwe",
+    "targetRole": "Student",
+    "targetUserId": "S47",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.455Z",
+    "updatedAt": "2026-07-27T17:52:10.455Z"
+  },
+  {
+    "_id": "o0kvubzha",
+    "targetRole": "Student",
+    "targetUserId": "S48",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.497Z",
+    "updatedAt": "2026-07-27T17:52:10.497Z"
+  },
+  {
+    "_id": "dxdh5w7gk",
+    "targetRole": "Student",
+    "targetUserId": "S49",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.528Z",
+    "updatedAt": "2026-07-27T17:52:10.528Z"
+  },
+  {
+    "_id": "y4m3jnuwz",
+    "targetRole": "Student",
+    "targetUserId": "S50",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.556Z",
+    "updatedAt": "2026-07-27T17:52:10.557Z"
+  },
+  {
+    "_id": "2j240467u",
+    "targetRole": "Student",
+    "targetUserId": "S51",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.596Z",
+    "updatedAt": "2026-07-27T17:52:10.596Z"
+  },
+  {
+    "_id": "kjttiln40",
+    "targetRole": "Student",
+    "targetUserId": "S52",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.628Z",
+    "updatedAt": "2026-07-27T17:52:10.628Z"
+  },
+  {
+    "_id": "34ab8za6u",
+    "targetRole": "Student",
+    "targetUserId": "S53",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.661Z",
+    "updatedAt": "2026-07-27T17:52:10.661Z"
+  },
+  {
+    "_id": "rg4dtkbfn",
+    "targetRole": "Student",
+    "targetUserId": "S54",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.705Z",
+    "updatedAt": "2026-07-27T17:52:10.705Z"
+  },
+  {
+    "_id": "6geeastr1",
+    "targetRole": "Student",
+    "targetUserId": "S55",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.741Z",
+    "updatedAt": "2026-07-27T17:52:10.741Z"
+  },
+  {
+    "_id": "qj1dvd5u6",
+    "targetRole": "Student",
+    "targetUserId": "S56",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.777Z",
+    "updatedAt": "2026-07-27T17:52:10.777Z"
+  },
+  {
+    "_id": "ngekc09mo",
+    "targetRole": "Student",
+    "targetUserId": "S57",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.819Z",
+    "updatedAt": "2026-07-27T17:52:10.819Z"
+  },
+  {
+    "_id": "mocwu9s6h",
+    "targetRole": "Student",
+    "targetUserId": "S58",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.854Z",
+    "updatedAt": "2026-07-27T17:52:10.854Z"
+  },
+  {
+    "_id": "rv3ztrxxr",
+    "targetRole": "Student",
+    "targetUserId": "S59",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.892Z",
+    "updatedAt": "2026-07-27T17:52:10.892Z"
+  },
+  {
+    "_id": "m0fdysrq6",
+    "targetRole": "Student",
+    "targetUserId": "S60",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.930Z",
+    "updatedAt": "2026-07-27T17:52:10.930Z"
+  },
+  {
+    "_id": "sebokzjs9",
+    "targetRole": "Student",
+    "targetUserId": "S61",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:10.968Z",
+    "updatedAt": "2026-07-27T17:52:10.968Z"
+  },
+  {
+    "_id": "ml8w4z96i",
+    "targetRole": "Student",
+    "targetUserId": "S62",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.005Z",
+    "updatedAt": "2026-07-27T17:52:11.005Z"
+  },
+  {
+    "_id": "qnq8mnfir",
+    "targetRole": "Student",
+    "targetUserId": "S63",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.040Z",
+    "updatedAt": "2026-07-27T17:52:11.040Z"
+  },
+  {
+    "_id": "paezinasl",
+    "targetRole": "Student",
+    "targetUserId": "S64",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.076Z",
+    "updatedAt": "2026-07-27T17:52:11.076Z"
+  },
+  {
+    "_id": "bngmm0s5t",
+    "targetRole": "Student",
+    "targetUserId": "S65",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.113Z",
+    "updatedAt": "2026-07-27T17:52:11.113Z"
+  },
+  {
+    "_id": "4ubgrbk41",
+    "targetRole": "Student",
+    "targetUserId": "S66",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.149Z",
+    "updatedAt": "2026-07-27T17:52:11.149Z"
+  },
+  {
+    "_id": "2keexwckl",
+    "targetRole": "Student",
+    "targetUserId": "S67",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.187Z",
+    "updatedAt": "2026-07-27T17:52:11.188Z"
+  },
+  {
+    "_id": "s1wpt01n2",
+    "targetRole": "Student",
+    "targetUserId": "S68",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.221Z",
+    "updatedAt": "2026-07-27T17:52:11.221Z"
+  },
+  {
+    "_id": "hsr3jgljw",
+    "targetRole": "Student",
+    "targetUserId": "S69",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.256Z",
+    "updatedAt": "2026-07-27T17:52:11.256Z"
+  },
+  {
+    "_id": "x4vlxeo35",
+    "targetRole": "Student",
+    "targetUserId": "S70",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.297Z",
+    "updatedAt": "2026-07-27T17:52:11.297Z"
+  },
+  {
+    "_id": "er16toekx",
+    "targetRole": "Student",
+    "targetUserId": "S71",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.337Z",
+    "updatedAt": "2026-07-27T17:52:11.337Z"
+  },
+  {
+    "_id": "mzzrxe755",
+    "targetRole": "Student",
+    "targetUserId": "S72",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.375Z",
+    "updatedAt": "2026-07-27T17:52:11.375Z"
+  },
+  {
+    "_id": "jfc8hustw",
+    "targetRole": "Student",
+    "targetUserId": "S73",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.412Z",
+    "updatedAt": "2026-07-27T17:52:11.412Z"
+  },
+  {
+    "_id": "yttibf7ek",
+    "targetRole": "Student",
+    "targetUserId": "S74",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.450Z",
+    "updatedAt": "2026-07-27T17:52:11.450Z"
+  },
+  {
+    "_id": "xfkc749wy",
+    "targetRole": "Student",
+    "targetUserId": "S75",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.484Z",
+    "updatedAt": "2026-07-27T17:52:11.484Z"
+  },
+  {
+    "_id": "wa1qzyw73",
+    "targetRole": "Student",
+    "targetUserId": "S76",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.515Z",
+    "updatedAt": "2026-07-27T17:52:11.515Z"
+  },
+  {
+    "_id": "6bm1xpqle",
+    "targetRole": "Student",
+    "targetUserId": "S77",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.545Z",
+    "updatedAt": "2026-07-27T17:52:11.545Z"
+  },
+  {
+    "_id": "75pchmyad",
+    "targetRole": "Student",
+    "targetUserId": "S78",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.578Z",
+    "updatedAt": "2026-07-27T17:52:11.578Z"
+  },
+  {
+    "_id": "uwawu7xsa",
+    "targetRole": "Student",
+    "targetUserId": "S79",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.615Z",
+    "updatedAt": "2026-07-27T17:52:11.615Z"
+  },
+  {
+    "_id": "dt2ywpe5v",
+    "targetRole": "Student",
+    "targetUserId": "S80",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.656Z",
+    "updatedAt": "2026-07-27T17:52:11.656Z"
+  },
+  {
+    "_id": "j10qd25rm",
+    "targetRole": "Student",
+    "targetUserId": "S81",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.695Z",
+    "updatedAt": "2026-07-27T17:52:11.695Z"
+  },
+  {
+    "_id": "200z9ng3e",
+    "targetRole": "Student",
+    "targetUserId": "S82",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.734Z",
+    "updatedAt": "2026-07-27T17:52:11.734Z"
+  },
+  {
+    "_id": "ifedx1yoc",
+    "targetRole": "Student",
+    "targetUserId": "S83",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.776Z",
+    "updatedAt": "2026-07-27T17:52:11.776Z"
+  },
+  {
+    "_id": "dbipw5mlt",
+    "targetRole": "Student",
+    "targetUserId": "S84",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.817Z",
+    "updatedAt": "2026-07-27T17:52:11.817Z"
+  },
+  {
+    "_id": "7dz9rszy1",
+    "targetRole": "Student",
+    "targetUserId": "S85",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.858Z",
+    "updatedAt": "2026-07-27T17:52:11.858Z"
+  },
+  {
+    "_id": "bb4rrgjtb",
+    "targetRole": "Student",
+    "targetUserId": "S86",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.894Z",
+    "updatedAt": "2026-07-27T17:52:11.894Z"
+  },
+  {
+    "_id": "h6q8fqxln",
+    "targetRole": "Student",
+    "targetUserId": "S87",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.932Z",
+    "updatedAt": "2026-07-27T17:52:11.932Z"
+  },
+  {
+    "_id": "to7lmnnhu",
+    "targetRole": "Student",
+    "targetUserId": "S88",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:11.970Z",
+    "updatedAt": "2026-07-27T17:52:11.970Z"
+  },
+  {
+    "_id": "oepln2acj",
+    "targetRole": "Student",
+    "targetUserId": "S89",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.008Z",
+    "updatedAt": "2026-07-27T17:52:12.008Z"
+  },
+  {
+    "_id": "nps4kal0a",
+    "targetRole": "Student",
+    "targetUserId": "S90",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.049Z",
+    "updatedAt": "2026-07-27T17:52:12.049Z"
+  },
+  {
+    "_id": "xg5r4x0hj",
+    "targetRole": "Student",
+    "targetUserId": "S91",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.084Z",
+    "updatedAt": "2026-07-27T17:52:12.084Z"
+  },
+  {
+    "_id": "n9gox3nlr",
+    "targetRole": "Student",
+    "targetUserId": "S92",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.120Z",
+    "updatedAt": "2026-07-27T17:52:12.120Z"
+  },
+  {
+    "_id": "m2mi3b1l6",
+    "targetRole": "Student",
+    "targetUserId": "S93",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.150Z",
+    "updatedAt": "2026-07-27T17:52:12.150Z"
+  },
+  {
+    "_id": "1ycta5to3",
+    "targetRole": "Student",
+    "targetUserId": "S94",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.190Z",
+    "updatedAt": "2026-07-27T17:52:12.190Z"
+  },
+  {
+    "_id": "y2u3z8zub",
+    "targetRole": "Student",
+    "targetUserId": "S95",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.231Z",
+    "updatedAt": "2026-07-27T17:52:12.231Z"
+  },
+  {
+    "_id": "5xaaxln85",
+    "targetRole": "Student",
+    "targetUserId": "S96",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.268Z",
+    "updatedAt": "2026-07-27T17:52:12.268Z"
+  },
+  {
+    "_id": "nh8rexxsw",
+    "targetRole": "Student",
+    "targetUserId": "S97",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.307Z",
+    "updatedAt": "2026-07-27T17:52:12.307Z"
+  },
+  {
+    "_id": "sja527xo3",
+    "targetRole": "Student",
+    "targetUserId": "S98",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.340Z",
+    "updatedAt": "2026-07-27T17:52:12.340Z"
+  },
+  {
+    "_id": "bcea7niex",
+    "targetRole": "Student",
+    "targetUserId": "S99",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.372Z",
+    "updatedAt": "2026-07-27T17:52:12.372Z"
+  },
+  {
+    "_id": "rice31g7b",
+    "targetRole": "Student",
+    "targetUserId": "S100",
+    "message": "New grade records have been uploaded for your classes.",
+    "type": "marks",
+    "createdAt": "2026-07-27T17:52:12.412Z",
+    "updatedAt": "2026-07-27T17:52:12.412Z"
+  },
+  {
+    "_id": "b4aj746yn",
+    "targetRole": "Student",
+    "targetUserId": "S1",
+    "message": "GTU Result updated for Physics (Semester 1): Score 80/100 (AB).",
+    "type": "marks",
+    "createdAt": "2026-08-21T15:20:09.180Z",
+    "updatedAt": "2026-09-19T15:08:03.470Z",
+    "isRead": true
+  },
+  {
+    "_id": "0ikszekbi",
+    "targetRole": "Student",
+    "targetUserId": "S2",
+    "message": "GTU Result updated for Physics (Semester 1): Score 20/100 (FF).",
+    "type": "marks",
+    "createdAt": "2026-08-24T15:22:51.117Z",
+    "updatedAt": "2026-08-24T15:22:51.117Z"
+  },
+  {
+    "_id": "noj4hbnj7",
+    "targetRole": "Student",
+    "targetUserId": "S1",
+    "message": "GTU Result updated for Physics (Semester 1): Score 66/70 (AA).",
+    "type": "marks",
+    "createdAt": "2026-10-11T09:46:59.916Z",
+    "updatedAt": "2026-10-11T09:46:59.916Z"
+  }
+]

@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    background-color: #0f0f1a;
+    color: #f1f5f9;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sora', 'Space Grotesk', sans-serif;
+  }
+}
+
+/* 🪐 Sleek Dark Glassmorphism Styles */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.glass-panel-heavy {
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* 🔮 Glow Indicators & Borders */
+.glow-border-student {
+  border: 1px solid rgba(6, 182, 212, 0.2);
+  box-shadow: 0 0 15px rgba(6, 182, 212, 0.03);
+}
+
+.glow-border-teacher {
+  border: 1px solid rgba(139, 92, 246, 0.2);
+  box-shadow: 0 0 15px rgba(139, 92, 246, 0.03);
+}
+
+.glow-border-principal {
+  border: 1px solid rgba(245, 158, 11, 0.2);
+  box-shadow: 0 0 15px rgba(245, 158, 11, 0.03);
+}
+
+/* Glow Shadows on Hover */
+.glow-hover-student:hover {
+  box-shadow: 0 0 25px rgba(6, 182, 212, 0.15);
+  border-color: rgba(6, 182, 212, 0.4);
+}
+
+.glow-hover-teacher:hover {
+  box-shadow: 0 0 25px rgba(139, 92, 246, 0.15);
+  border-color: rgba(139, 92, 246, 0.4);
+}
+
+.glow-hover-principal:hover {
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.15);
+  border-color: rgba(245, 158, 11, 0.4);
+}
+
+/* Scrollbars for Tech Dark theme */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.8);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Pulsing animated lights */
+@keyframes neon-pulse-student {
+  0%, 100% { box-shadow: 0 0 10px rgba(6, 182, 212, 0.1); }
+  50% { box-shadow: 0 0 20px rgba(6, 182, 212, 0.25); }
+}
+
+@keyframes neon-pulse-teacher {
+  0%, 100% { box-shadow: 0 0 10px rgba(139, 92, 246, 0.1); }
+  50% { box-shadow: 0 0 20px rgba(139, 92, 246, 0.25); }
+}
+
+@keyframes neon-pulse-principal {
+  0%, 100% { box-shadow: 0 0 10px rgba(245, 158, 11, 0.1); }
+  50% { box-shadow: 0 0 20px rgba(245, 158, 11, 0.25); }
+}
+
+.glow-pulse-student {
+  animation: neon-pulse-student 3s infinite alternate;
+}
+
+.glow-pulse-teacher {
+  animation: neon-pulse-teacher 3s infinite alternate;
+}
+
+.glow-pulse-principal {
+  animation: neon-pulse-principal 3s infinite alternate;
+}
