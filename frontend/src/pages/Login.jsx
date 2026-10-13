@@ -83,20 +83,29 @@ const Login = () => {
   const [showPassword, setShowPassword] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [wakingServer, setWakingServer] = useState(false);
 
   const activeMeta = roleMeta[role];
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setErrorMsg('');
+    setWakingServer(false);
     setIsSubmitting(true);
+
+    // After 3 s of waiting, show "waking up server" message (Render cold start)
+    const wakeTimer = setTimeout(() => setWakingServer(true), 3000);
 
     try {
       const res = await login(loginId, password, role);
+      clearTimeout(wakeTimer);
+      setWakingServer(false);
       if (!res.success) {
         setErrorMsg(res.error);
       }
     } catch (err) {
+      clearTimeout(wakeTimer);
+      setWakingServer(false);
       setErrorMsg('An unexpected network error occurred.');
     } finally {
       setIsSubmitting(false);
@@ -245,6 +254,23 @@ const Login = () => {
                   </button>
                 </div>
               </div>
+
+              {/* Waking Server Banner */}
+              <AnimatePresence>
+                {wakingServer && (
+                  <motion.div
+                    initial={{ opacity: 0, y: -6 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: -6 }}
+                    className="bg-amber-950/20 border border-amber-700/40 p-3 rounded-xl flex items-center gap-2.5"
+                  >
+                    <span className="w-4 h-4 border-2 border-amber-400/30 border-t-amber-400 rounded-full animate-spin flex-shrink-0" />
+                    <p className="text-xs text-amber-300 font-semibold leading-relaxed">
+                      ⏳ Server is waking up (free tier). This may take up to 60 seconds on the first visit — please wait…
+                    </p>
+                  </motion.div>
+                )}
+              </AnimatePresence>
 
               {/* Login Action Button */}
               <button

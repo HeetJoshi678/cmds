@@ -76,6 +76,9 @@ app.use('/api/notifications', notificationRoutes);
 app.use('/api/students', studentRoutes);
 app.use('/api/gtu', gtuRoutes);
 
+// Health check endpoint (used by keep-alive pinger)
+app.get('/api/health', (req, res) => res.json({ status: 'ok', ts: Date.now() }));
+
 // Serve static frontend in production / Render
 const path = require('path');
 const fs = require('fs');
@@ -104,6 +107,23 @@ const PORT = process.env.PORT || 5000;
 if (require.main === module) {
   server.listen(PORT, '0.0.0.0', () => {
     console.log(`🚀 Server listening on port ${PORT}`);
+
+    // ── Keep-alive: ping self every 14 min to prevent Render free tier sleep ──
+    const RENDER_URL = process.env.RENDER_EXTERNAL_URL;
+    if (RENDER_URL) {
+      const pingInterval = 14 * 60 * 1000; // 14 minutes
+      setInterval(() => {
+        const https = require('https');
+        const http = require('http');
+        const mod = RENDER_URL.startsWith('https') ? https : http;
+        mod.get(`${RENDER_URL}/api/health`, (res) => {
+          console.log(`🏓 Keep-alive ping → ${res.statusCode}`);
+        }).on('error', (err) => {
+          console.log(`⚠️  Keep-alive ping failed: ${err.message}`);
+        });
+      }, pingInterval);
+      console.log(`🔄 Keep-alive pings scheduled every 14 min → ${RENDER_URL}`);
+    }
   });
 }
 
